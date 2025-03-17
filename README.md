@@ -45,9 +45,3 @@ git clone https://github.com/NetSecPrajwal/FUTURE_CS_01.git
 🔗 Connect With Me
 💼 LinkedIn: Prajwal Gaikwad
 📧 Email: prajwalgaikwad800@gmail.com
-
----
-
-### **Next Steps:**  
-1️⃣ Copy this and add it to your `README.md` file in your **GitHub repo**.  
-2️⃣ Once done, let me know which task you want to start first! 🚀
